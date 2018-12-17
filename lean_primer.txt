@@ -1,0 +1,18 @@
+Lean Primer -artikkelissa esitellään Lean-ajattelun periaatteita. Tärkeimmät kivijalat tässä
+ajattelussa ovat kunnioitus ja systemaattinen kehittyminen. Näiden omaksumatta jättämisellä
+ei Leania voi ymmärtää tarvittavalla tavalla. Perusajatusta voidaan kuvata sillä, että jos
+prosessia verrattaisiin viestijuoksuun, niin huomion kohteena pitäisi juoksijan sijaan olla
+viestikapula.
+
+Ohjelmistotiimeillä ja yksittäisillä henkilöillä on mahdollisuus kehittää käytäntöjä ja tapoja
+ja tätä pohjaa kunnioitus ihmisiä kohtaan ja itsensä kehittämisen tärkeys. Käsite asiakkaasta
+"määritellään uudelleen", sillä asiakkaaksi voidaan lukea jokin lopputuloksen hyödyntäjä,
+olkoon kyse sitten työntekijästä tai muusta.
+
+Artikkelissa käsiteltiin tiettyjä jatkuvan kehityksen keskeisiä käsitteitä;
+Go see pohjautuu perusajatukseen, jonka mukaan edesauttaakseen kehitystä on oltava niin
+sanotusti kehityksen keskellä, eli siellä missä töitä tehdään.
+Yleiset käytännöt ja henkilökohtaisen ajattelun kattava termi on kaizen, joka tulee Japanin
+kielestä ja tarkoittaa kehitystä. Ajattelun kautta pyritään kehittämään omia ajattelumalleja
+ja sen myötä kehittymään toimintatapojen suunnittelussa.
+
