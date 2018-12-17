@@ -1,0 +1,26 @@
+Uusista vaatimuksista, korjauksista ja parannuksista johtuen ohjelmistojen elinkaari
+on hyvin pitkä. Laadun arviointi ja varmistaminen kehitystyön ohella on haasteellista ja 
+mahdolliset virheet tulevat esille vasta ohjelmiston julkaisun jälkeen, eikä niitä
+havaita testaamisella. Vasta tuotteen valmistuessa ja käyttäjille toimittamisen jälkeen 
+pystytään analysoimaan mahdollisten virheiden määrä. Tämä vaikuttaa kuitenkin negatiivisesti
+kustannuksiin, jos suurin ongelma piileekin juuri tässä, sillä mahdollisten ongelmien
+havaitseminen mahdollisimman aikaisessa vaiheessa on kehitystyön kannalta hyödyllistä.
+Inhimillisistä tekijöistä ja suuresta vastuusta johtuen virhemarginaali on olemassa. Tätä
+helpottaakseen ohjelmiston laatua voidaan tutkia mekaanisilla metriikoilla, joiden avulla
+pystytään havaitsemaan kriittisimpiä osa-alueita sekä arvioimaan komponentteja.
+Tutkielmassa käsitellään muutamia hyödyllisiksi havaittuja metriikoita; Koodikirnulla
+arvioidaan ohjelmistonmuutoksien vaikutusta ohjelmiston virheherkkyyteen, verkkoanalyysillä
+tutkitaan ohjelmiston komponenttien riippuvuuksien vaikutusta ohjelmiston virhealttiuteen,
+testikattavuudella ja mutaatiotestauksella analysoidaan ohjelmiston lähdekoodin testien
+tehokkuutta sekä laadukkuutta.
+Metriikat eivät yksinään sovellu laadun tutkimiseen, mutta niistä tehdyt tutkimukset antavat
+lupaavia viitteitä liittyen niiden hyötyyn ohjelmiston laadun varmistamisessa. Myös niiden
+väliset yhtäläisyydet saavat metriikat tukemaan hyvin toisiaan. Laadun varmistaminen tulee
+kuitenkin kohdentaa metriikoiden havaitsemiin virhealttiisiin kohteisiin ohjelmistossa,
+sillä yksittäiset metriikat paljastavat vain osan ohjelmiston laadusta. Kehittyneitä työkaluja,
+joilla arvioida metriikoita, ei ole helposti saatavilla ja ehkä juuri siitä syystä ne ovat
+perimmiltään pitkälti teoreettisia, pitkästä tutkimushistoriasta huolimatta.
+Ohjelmistokehittäjät vastaavat laadukkaan ohjelmiston kehityksen lopputuloksesta ja sen
+tuotantoprosessilla on suuri merkitys osana laadukasta kehitysprosessia. Ohjelmiston 
+suunnittelu, toteutus ja testaus pohjautuu ulkoiseen ja sisäiseen laatuun, ja jotka hyödyntävät
+hyväksi todettuja ohjelmointitapoja sekä malleja.

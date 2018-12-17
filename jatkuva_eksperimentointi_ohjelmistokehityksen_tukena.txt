@@ -1,0 +1,16 @@
+Tutkielmassa kerrotaan ja käydään läpi, mitä eksperimentoinnin käsitteellä tarkoitetaan
+ohjelmistotuotannossa sekä mitä motiiveja on siirtyä ohjelmistotuotantoon ja hyödyntää 
+jatkuvaa eksperimentointia. Käytännön tasolla etukäteen suunnittelua tehdään mahdollisimman
+vähäinen määrä, kun käytetään eksperimentointia. Kun kehitys etenee, selvitetään miten hyvin
+ohjelmisto vastaa käyttäjän laatimia tarpeita, jonka todennus tapahtuu erilaisillakoeasetelmilla.
+Lean-filosofiaa, eli johtamisfilosofiaan joka keskittyy seitsemän erilaisen turhuuden poistamiseen,
+käsitellään tutkielman alkupuolella sekä malleja soveltaa Lean-ajattelua ohjelmistotuotannossa.
+Lisäksi käsitellään Leanin ja ketterien menetelmien eroavaisuuksia ja yhtäläisyyksiä. Tämän jälkeen
+tutkielmassa käsitellään Lean Startup -filosofiaa, joka on teknologiayrityksille suunnattu menetelmä
+ja jonka tarkoituksena on oikeastaan vähentää kaikkia niitä turhia innovaatioita, jotka eivät menesty.
+Sen lisäksi tutustutaan tarkemmin eksperimentoinnin käsitteeseen ohjelmistotuotantoympäristön
+läpikäyntiin, joka on koko ajan entistä enemmän verkottuneempi ja joka luo eksperimentoinnille pohjan.
+Lopputulemana saadaan, että mitä enemmän mielipiteillä, luuloilla ja olettamuksilla ohjataan etenkin
+pienten organisaatioiden ohjelmistokehitystä sen sijaan, että hyödynnettäisiin todellista käyttödataa,
+sitä vähemmän kulutetaan aikaa ja resursseja työhön, joka ei lisää arvoa, jonka asiakas
+ohjelmistotuotteesta saa.

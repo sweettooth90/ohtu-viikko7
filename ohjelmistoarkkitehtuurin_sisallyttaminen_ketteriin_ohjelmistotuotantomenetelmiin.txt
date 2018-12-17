@@ -1,0 +1,16 @@
+Ohjelmistosuunnittelut ja ohjelmistoarkkitehtuurin merkitys on ketterän ohjelmistokehityksen myötä
+muuttunut. Jos verrataan perinteiseen vesiputousmalliin, jossa suunnittelulle ja määrittelylle
+varattiin kuukausia paljon aikaa ennen itse ohjelmoinnin aloittamista, jätetään ketterässä
+ohjelmistotuotannossa raskas suunnitteluprosessi myöhemmälle ja ensin muokataan järjestelmän
+rakenne toteutettavien ominaisuuksien mukaan, jotka asiakkaan ja kehitysryhmän kanssa on valittu.
+Tätä tukee inkrementaalisesti kehitysjaksosta toiseen muodostuva arkkitehtuuri, jolloin järjestelmän
+rakennetta muutetaan tarpeen vaatiessa yksinkertaisemmaksi ja selkeämmäksi koskematta itse
+toiminnallisuuteen. Tätä kutsutaan refaktoroinniksi.
+Inkrementaalinen järjestelmän rakenteen luominen vaatii tietoa ja taitoa ja kehitysympäristön rajat
+saavutetaan vasta ohjelmoitaessa, jonka vuoksi ohjelmistokehityksen suhdetta suunnitteluun pidetään
+ohjelmistokehittäjien keskuudessa haastavana. Ohjelmistoarkkitehtuurille ei ole luonnollista tilaa
+ketterässä kehityksessä, eikä se myöskään anna riittävästi neuvoja rakenteen suunnittelulle ja toteutukselle.
+Ketterää ohjelmistokehitystä hyödyntävät yhtiöt ovat sopeutuneet erilaisiin käytäntöihin muokatakseen
+oppikirjan mukaisia kehitystapoja ohjelmistoarkkitehtuurin haasteita paremmin huomioiviksi.
+Nämä eivät välttämättä kuitenkaan ole täysin linjassa ketterien periaatteiden kanssa, vaikka antavatkin
+vaihtoehtoisia tapoja järjestelmän arkkitehtuurin tuottamiseen.

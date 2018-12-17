@@ -1,0 +1,14 @@
+Yksilöiden arvostaminen, asiakasyhteistyö ja muutokseen reagointi kuuluvat ketterien
+menetelmien periaatteisiin. Nämä edellä mainitut kehitettiin, kun haluttiin vaihtoehto
+perinteiselle tavoille tuotaa ohjelmistoa, jotka olivat raskasrakenteisia. 2000-luvun
+alussa ketterät menetelmät ovat kasvattaneet suuresti suosiotaan. Näistä suurimman 
+suosion ovat saavuttaneet Scrum, Kanban sekä niiden yhdistelmät, kuten Scrumban.
+Scrumban, jossa yhdistyy Scrumin ja Kanbanin piirteitä, on ketterän ohjelmistokehityksen
+menetelmä. Arvaamattomille ja nopeasti muuttuville proseseille Scrumban on sopivin
+vaihtoehto. Tilanne muodostuu hankalaksi, sillä arvaamattomissa ja nopeasti muuttuvissa
+projekteissa Scrumin periaatteiden noudattaminen on varsin haastavaa, kun samaan aikaan
+Kanban asettaa prosessille liian vähän rajoitteita.
+Tutkielma käsittelee ketteriä menetelmiä ja esittelee Scrumin ja Kanbanin, ketterän
+ohjelmistokehityksen menetelmät. Tekstissä tutkitaan niiden eroja ja yhtäläisiä piirteitä.
+Lisäksi verrataan Scrumbanin saamia vaikutteita Scrumista ja Kanbanista ja käydään läpi
+Scrumbania käytännön tasolla eritellen käytöstä havaittuja hyötyjä ja haasteita.

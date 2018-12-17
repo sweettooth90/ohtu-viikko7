@@ -1,0 +1,20 @@
+Tutkielmassa tarkastellaan ohjelmistotuotantomenetelmien kehittymistä ohjelmistokehittämisen
+alkuajoista nykypäivään ja lähitulevaisuuteen, joita tarkastellaan ohjelmistotuotantomenetelmiä
+määrittävinä piirteinä. Peruskäsitteistössä selvennetään keskeistä termistöä, kuten ohjelmisto,
+tietokonelaitteisto sekä ohjelmistotuotanto. Ohjelmistotuotannon alkutaipaleella, eli 1940-50 luvulla
+ensimmäiset ohjelmoitavat elektronisesti tallentavat tietokoneet olivat valtavan kokoisia, hitaita
+ja niiden muistikapasiteetti oli mitätön, jos verrataan nykystandardeihin.
+Tarve järjestelmälliselle ohjelmien tuotannolle oli syntymässä, kun ohjelmoinnin monimutkaisuus ja
+ongelmat alkoivat selvitä asian parissa työskenteleville. Suunnitelmavetoiset tuotantomenetelmät,
+joita määrittää laaja vaatimusmäärittely ja yksityiskohtainen suunnittelu sekä niitä sarjallisesti
+seuraavat toteutus-, testaus- ja käyttöönottovaiheet, kutsuttiin perinteisiksi ohjelmistotuotantomenetelmiksi.
+Inkrementaalisille ja iteratiivisille malleille tyypillistä on dokumenttijohtoisen lineaarisesti etenevä
+tuotantoprosessin välttäminen. Tätä tukeakseen hyödynnetään muun muassa aikaan sidottuja iteraatioita,
+evolutiivista kehittämistä sekä palautteen mukaan ohjautuvaa kehittämistä. Nämä mallit tulivat suuren
+yleisön tietoisuuteen joulukuussa 1994. 2000-luvun keskeisin trendi ohjelmistotuotannossa on ketterät
+ohjelmistotuotantomenetelmät, jotka syntyivät reaktiona perinteisten menetelmien vaatimus- ja 
+suunnitelmapainotteisuudelle. Ketterän kehittämisen arvot ja painotukset erottavat ne aikaisemmista
+menetelmistä. Niille ominaista on muun muassa kehittäjien itseohjautuvuus, tiivis yhteistyö asiakastahojen
+kanssa sekä toimivan ohjelmiston tuottaminen ja toimittaminen lyhyissä iteraatioissa. Perinteiset menetelmät
+eivät puolestapuhujien mukaan kykene mukautumaan alan ja teknologian nopeasta muutoksesta johtuviin
+vaatimuksiin. Ketterät menetelmät ovat nykyäänkin suosituimpia ohjelmistotuotantomenetelmiä.
