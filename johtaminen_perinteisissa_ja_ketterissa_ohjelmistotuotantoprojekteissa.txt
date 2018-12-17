@@ -1,3 +1,15 @@
-IT­-alalla työ on usein organisoitu ryhmäprojekteiksi. Ohjelmistokehitys on monimutkaista ja alan toimintaympäristön monimutkaisuus, kuten teknologian ja asiakkaiden jatkuvasti muuttuvat tarpeet, asettavat projektien johtamiselle erityisiä haasteita. Projekteja on pitkään leimannut heikko tuottavuus ja epäonnistumiset, joiden on katsottu johtuvan mm. epäonnistuneesta johtamisesta. Ketterän projektijohtamisen kehitys haastoi 2000-luvulla perinteisiä näkemyksiä ohjelmistokehityksen toimintamalleista ja toi uutta tulokulmaa ohjelmistoprojektien johtamiseen. 
+IT­-alalla työ on usein organisoitu ryhmäprojekteiksi. Ohjelmistokehitys on monimutkaista ja alan 
+toimintaympäristön monimutkaisuus, kuten teknologian ja asiakkaiden jatkuvasti muuttuvat tarpeet, 
+asettavat projektien johtamiselle erityisiä haasteita. Projekteja on pitkään leimannut heikko 
+tuottavuus ja epäonnistumiset, joiden on katsottu johtuvan mm. epäonnistuneesta johtamisesta.
+Ketterän projektijohtamisen kehitys haastoi 2000-luvulla perinteisiä näkemyksiä ohjelmistokehityksen 
+toimintamalleista ja toi uutta tulokulmaa ohjelmistoprojektien johtamiseen. 
 
-Johtaminen ja ongelmanratkaisun tulokulmat ketterissä ja perinteisissä projekteissa eroavat suuresti toisistaan. Perinteinen ohjelmistokehitys perustuu ajatukselle, että ohjelmistoprojektien toimintaympäristö on staattinen ja ennakoitava. Ketterässä kehityksessä korostetaan puolestaan toimintaympäristön dynaamisuutta ja ennakoimattomuutta. Perinteisessä projektinhallinnassa on keskitytty etukäteissuunnitelmiin, kun taas ketterässä projektinhallinnassa korostuu pyrkimys mahdollisimman suureen joustavuuteen. Perinteisessä projektijohtamisessa projektipäällikön rooli on vahva, kun taas  uudemmissa ketterissä menetelmissä päätöksenteko on projektitiimin jäsenten yhteisellä vastuulla (itseohjautuvuus) sekä johtajaroolit ovat väliaikaisia.
+Johtaminen ja ongelmanratkaisun tulokulmat ketterissä ja perinteisissä projekteissa eroavat suuresti 
+toisistaan. Perinteinen ohjelmistokehitys perustuu ajatukselle, että ohjelmistoprojektien 
+toimintaympäristö on staattinen ja ennakoitava. Ketterässä kehityksessä korostetaan puolestaan 
+toimintaympäristön dynaamisuutta ja ennakoimattomuutta. Perinteisessä projektinhallinnassa on 
+keskitytty etukäteissuunnitelmiin, kun taas ketterässä projektinhallinnassa korostuu pyrkimys 
+mahdollisimman suureen joustavuuteen. Perinteisessä projektijohtamisessa projektipäällikön rooli on 
+vahva, kun taas  uudemmissa ketterissä menetelmissä päätöksenteko on projektitiimin jäsenten 
+yhteisellä vastuulla (itseohjautuvuus) sekä johtajaroolit ovat väliaikaisia.
