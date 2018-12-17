@@ -1,4 +1,4 @@
-IT­-alalla työ on usein organisoitu ryhmäprojekteiksi. Ohjelmistokehitys on monimutkaista ja alan 
+IT-alalla työ on usein organisoitu ryhmäprojekteiksi. Ohjelmistokehitys on monimutkaista ja alan 
 toimintaympäristön monimutkaisuus, kuten teknologian ja asiakkaiden jatkuvasti muuttuvat tarpeet, 
 asettavat projektien johtamiselle erityisiä haasteita. Projekteja on pitkään leimannut heikko 
 tuottavuus ja epäonnistumiset, joiden on katsottu johtuvan mm. epäonnistuneesta johtamisesta.
